@@ -1,4 +1,4 @@
 # Important-Problem-Solution
 Hi I'm Satyam Anand
-I'm Interested in Competitive Programming
-I'm Currently Study MCA at NITK Surathkal
+Interested in Competitive Programming
+Currently Study MCA at NITK Surathkal
